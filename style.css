@@ -1,0 +1,28 @@
+body{
+  background:#0f172a;
+  font-family:Arial;
+  height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
+.tabs{
+  background:#020617;
+  color:white;
+  padding:20px;
+  border-radius:12px;
+}
+
+button{
+  margin-right:6px;
+  padding:8px 12px;
+  border:none;
+  border-radius:6px;
+  cursor:pointer;
+}
+
+.content{
+  display:none;
+  margin-top:15px;
+}
